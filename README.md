@@ -1,71 +1,56 @@
-# Mohan Dwivedi
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mohandwivedi01.mohandwivedi01" />
 
-📧 Email: [mohan.dwivedi@outlook.com](mailto:mohan.dwivedi@outlook.com)  
-📞 Phone: +91 7518164359  
-🔗 [LinkedIn](https://www.linkedin.com/in/manmohan-dwivedi) | [Tweeter / X](https://x.com/ByteByByte_)
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mohan+!;" />
+</h1>
 
----
+<h3 align="center">A Passionate Software Developer</h3>
 
-## 🏫 Education
-- **Master of Computer Applications (MCA)**  
-  KIET Group of Institutions  
----
+<br/>
 
-## 💼 Experience
+<div align="center">
+ 
+ 🔭 I’m currently **building my ideas and trying to be a 100x dev**
+ 
+ 🌱 I’m currently **web development**
 
-### **Software Developer Intern**  
-**Digicane Systems** (Remote)  
-**Project**: X-Journals (Sep 2024)  
-- Built a secure blogging backend with Spring Boot, MongoDB, and JWT for authentication.  
-- Added input validation, secure endpoints, and comprehensive error handling for scalability.
+💬 Ask me about **Java, Springboot, NodeJS, ReactJS, Python, ML... or anything [here](mohan.dwivedi@outlook.com)**
 
-### **Software Engineer**  
-**TGH Software Solutions** (On-site, Noida)  
-**Jul 2024 - Oct 2024**  
-- Worked on integration projects using the agile software development lifecycle.  
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
----
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:mohan.dwivedi@outlook.com">
+    <img src="https://img.shields.io/badge/Gmail-FF5722?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohan-dwivedi/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://github.com/mohandwivedi01" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-009E60?style=for-the-badge&logo=github&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+  <a href="https://x.com/ByteByByte_" target="_blank">
+    <img src="https://img.shields.io/badge/Tweeter/X-3E5879?style=for-the-badge&logo=x&logoColor=white" target="_blank" />
+  </a>
+</div>
 
-## 🛠️ Projects
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages & Tools ⚒️</h2>
+<br/>
+<div align="center">
+    
+<img src="https://skillicons.dev/icons?i=java,javascript,python,react,nodejs,express,spring,html" /><br>
+<img src="https://skillicons.dev/icons?i=tailwind,hibernate,mongodb,mysql,git,github,idea,figma,vite,npm" />
+</div>
 
-### **Notice-X**  
-Technologies: Spring Boot, Hibernate, JPA, PostgreSQL  
-- Developed the user interests feature and created secure, scalable APIs to personalize functionality.  
+<br/>
+<hr/>
 
-### **MockMaster**  
-Technologies: React, Bootstrap, Django, SQLite  
-- AI-driven mock interview web app that analyzes resumes, generates questions, records answers, and provides feedback.
-
-### **StreamNest**  
-Technologies: NodeJS, ExpressJS, MongoDB, JWT, Cloudinary  
-- Developed a backend enabling video-based tweets and social interactions.  
-- Integrated secure APIs with JWT authentication, MongoDB, and file management.
-
----
-
-## 📜 Certifications
-- **Java Programming Certification** — Great Learning (2023)  
-- **Python Programming** — Udemy (2023)  
-- **JavaScript Essentials 1** — Cisco Networking Academy (2023)  
-- **GitHub Basics Guide** — Udemy (2023)  
-- **Machine Learning Foundations** — AWS Academy (2024)  
-- **Associate Integration Developer** — Boomi (2024)  
-
----
-
-## 💡 Skills
-- **Languages**: Java, Python, JavaScript  
-- **Frameworks/Tools**: Spring Boot, Hibernate, Django, Node.js, React, Express.js  
-- **Databases**: MongoDB, PostgreSQL, SQLite  
-- **Architectures**: Microservices, Monolithic  
-- **Other Skills**: Agile Development, Problem-Solving  
-
----
-
-## 🔗 Notable Links
-- [StreamNest Repository](https://github.com/mohandwivedi01/StreamNest)
-
-
-
-
-
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/heycalebszn/heycalebszn/output/github-contribution-grid-snake.svg" />
+  
+</div>
